@@ -8,5 +8,6 @@ namespace IntroToGitHub
 {
     internal class Employee
     {
+        public int MyProperty { get; set; }
     }
 }
